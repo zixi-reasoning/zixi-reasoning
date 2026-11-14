@@ -1,19 +1,19 @@
-<h1 align="center">李籽溪</h1>
+<h1 align="center">Zixi Li</h1>
 
-<p align="center">Zixi Li · 专业图书作者</p>
+<p align="center">Professional author · I write novels and open-source books</p>
 
 ---
 
-## 图书
+## Books
 
-### 《推理王国》
+### Reasoning Kingdom · 推理王国
 
-关于 AI 推理机制的开源三部曲。从熵增到边界，追问智能的本质。
+An open-source trilogy on the mechanisms of AI reasoning. From entropy to boundaries, asking what intelligence really is.
 
-[在线阅读](https://datawhalechina.github.io/reasoning-kingdom/) · [GitHub](https://github.com/datawhalechina/reasoning-kingdom)
+[Read online](https://datawhalechina.github.io/reasoning-kingdom/) · [GitHub](https://github.com/datawhalechina/reasoning-kingdom)
 
-### 《学习的地形》
+### The Terrain of Learning · 学习的地形
 
-推理几何与智能动力学导论。参数空间是地貌，损失函数是海拔，训练是沿坡而下的运动。
+An introduction to reasoning geometry and the dynamics of intelligence. Parameter space is terrain, the loss function is altitude, and training is movement down the slope.
 
-[在线阅读](https://datawhalechina.github.io/learning-terrain/) · [GitHub](https://github.com/datawhalechina/learning-terrain)
+[Read online](https://datawhalechina.github.io/learning-terrain/) · [GitHub](https://github.com/datawhalechina/learning-terrain)
